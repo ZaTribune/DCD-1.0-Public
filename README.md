@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## System Requirements  
 &nbsp;&nbsp;&nbsp;&nbsp;Microsoft Windows XP or above.  
-&nbsp;&nbsp;&nbsp;&nbsp;At least GB RAM.  
+&nbsp;&nbsp;&nbsp;&nbsp;At least 2 GB RAM.  
 
 ## Installing  
 A step by step series of examples that tell you how to get a development env running.  
