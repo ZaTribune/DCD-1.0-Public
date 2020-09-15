@@ -10,7 +10,7 @@ I represent to you the DCD [Dental Clinic Desktop] , a reliable solution for man
 
 ## Features  
 
-1. The DCD Application provides the user with the ability to record all the patient’s primary data and the ability to search for him and create a patient history file for the visitor and display it in the form of a recorded history containing all the previous visits, x-rays, and the medications he used in advance.  
+1. The DCD Application provides the user with the ability to record all the patient’s primary data and the ability to search for him/her and create a patient history file for the visitor and display it in the form of a recorded history containing all the previous visits, x-rays, and the medications he used in advance.  
 2. The ability to create + print a medical prescription that's provided with a QR code for each one.  
 3. The ability to specify a discount rate for the patient.    
 3. A user can monitor and see the number of whatever transactions carried out on the clinic and the total revenues and expenses in any specific period of time.  
