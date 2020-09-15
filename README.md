@@ -1,7 +1,7 @@
 # ZaTribune-Dental-Clinic-V1.0-Desktop-Single
 <p align="center">
-  <img src="src/main/resources/images/co.png" height="250"/>
-  <img src="src/main/resources/images/dc.png" height="250"/>
+  <img src="screenshots/co.png" height="250"/>
+  <img src="screenshots/dc.png" height="250"/>
 </p>
 
 ## Getting Started  
